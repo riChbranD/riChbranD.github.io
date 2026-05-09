@@ -1,2 +1,2 @@
-# riChranD.github.io
+# riChbranD.github.io
 Game za bure
